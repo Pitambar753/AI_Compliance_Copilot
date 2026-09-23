@@ -1,0 +1,17 @@
+.env
+*.pem
+*.key
+__pycache__/
+*.pyc
+db/*.db
+vectorstore/
+frontend/dist/
+frontend/node_modules/
+# Additional ignores
+.DS_Store
+.idea/
+.vscode/
+*.log
+frontend_dist.zip
+data/s3_raw_documents/
+
